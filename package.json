@@ -1,0 +1,19 @@
+{
+  "name": "name-keepers-api",
+  "version": "1.0.0",
+  "description": "Api use for Storing names of friends, family and loved ones",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Operaconga14/name-keepers-api.git"
+  },
+  "author": "Amire Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Operaconga14/name-keepers-api/issues"
+  },
+  "homepage": "https://github.com/Operaconga14/name-keepers-api#readme"
+}
